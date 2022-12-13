@@ -716,7 +716,7 @@ img{
   .home_container{
     height: 100vh;
     grid-template-columns: max-content .5fr;
-    align-content: flex-end;
+    align-content:flex;
   }
 
   .home_greeting{
